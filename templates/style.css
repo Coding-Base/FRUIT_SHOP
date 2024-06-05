@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://www.shutterstock.com/image-photo/assortment-different-fruits-berries-flat-260nw-1395910394.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#blog{
+    display: grid;
+    justify-content: center;
+    margin: auto;
+}
